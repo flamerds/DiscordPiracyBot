@@ -1,0 +1,27 @@
+{
+  "name": "icanfindthings",
+  "version": "0.0.1",
+  "description": "Discord bot to find things on internet",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "D"
+  ],
+  "author": "shower",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^11.5.0",
+    "discord.js-commando": "^0.10.0",
+    "install": "^0.12.2",
+    "libgen": "^1.0.0",
+    "npm": "^6.9.0",
+    "rarbg-api": "^1.1.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
