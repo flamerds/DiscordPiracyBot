@@ -34,3 +34,5 @@ Folders
   - movies
     - scrapeMovies.js
       - uses rarbg api to search for movies and returns the title, # seeders, and magnet link
+
+###### Transferred from NotABug to GitHub
